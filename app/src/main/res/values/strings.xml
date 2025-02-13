@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppAnimation</string>
+    <string name="btn1">Translate</string>
+    <string name="btn2">Alpha</string>
+    <string name="btn3">Scale</string>
+    <string name="btn4">Rotate</string>
+    <string name="btn5">wifeasd</string>
+</resources>

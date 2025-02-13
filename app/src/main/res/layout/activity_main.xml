@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D52323"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:id="@+id/textAnim"
+        android:textSize="34sp"
+       android:layout_centerInParent="true"
+        android:textStyle="bold"
+        android:textColor="#fff"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/btn1"
+                android:id="@+id/btntranslate"
+                android:layout_height="wrap_content"></Button>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/btn2"
+                android:id="@+id/btnAlpha"
+                android:layout_height="match_parent"></Button>
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:text="@string/btn3"
+                android:layout_weight="1"
+                android:id="@+id/btnscale"
+                android:layout_height="match_parent"></Button>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/btn4"
+                android:id="@+id/btnrotate"
+                android:layout_height="match_parent"></Button>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
