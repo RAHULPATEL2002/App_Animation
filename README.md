@@ -46,6 +46,18 @@ App_Animation/
 3. Click the **Rotate** button to rotate the text.
 4. Click the **Scale** button to change the text size.
 
+
+## Screenshot
+![WhatsApp Image 2025-02-20 at 23 42 28_6c250be1](https://github.com/user-attachments/assets/ae550e48-cebf-4b89-91c3-17600d281e5f)
+
+![WhatsApp Image 2025-02-20 at 23 42 29_11d5d883](https://github.com/user-attachments/assets/0226fc35-fa79-4f7d-942b-7b261043f93c)
+
+![WhatsApp Image 2025-02-20 at 23 42 29_a6f86035](https://github.com/user-attachments/assets/d060707e-2827-499a-b892-0a5c4881ebb6)
+
+![Uploading WhatsApp Image 2025-02-20 at 23.42.30_2e4dde72.jpg…]()
+
+
+
 ## Author
 **Rahul Patel**
 
