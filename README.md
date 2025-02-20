@@ -54,9 +54,6 @@ App_Animation/
 
 ![WhatsApp Image 2025-02-20 at 23 42 29_a6f86035](https://github.com/user-attachments/assets/d060707e-2827-499a-b892-0a5c4881ebb6)
 
-![Uploading WhatsApp Image 2025-02-20 at 23.42.30_2e4dde72.jpg…]()
-
-
 
 ## Author
 **Rahul Patel**
